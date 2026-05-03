@@ -2,7 +2,6 @@
   {
     "package": "infomap",
     "url": "https://github.com/mapequation/infomap",
-    "subdir": "interfaces/R/infomap",
-    "branch": "feat/infomapR"
+    "subdir": "interfaces/R/infomap"
   }
 ]
